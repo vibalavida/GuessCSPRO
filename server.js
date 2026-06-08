@@ -6,7 +6,7 @@ const { encrypt, decrypt } = require('./utils/crypto');
 const http = require('http');
 const app = express();
 const PORT = 3001;
-const HOST = '0.0.0.0';
+const HOST = process.env.HOST || '0.0.0.0';
 
 // 使用 CORS 中间件
 app.use(cors({
@@ -183,9 +183,10 @@ app.post('/api/decrypt', express.json(), (req, res) => {
     }
 });
 
-// 确保监听所有网络接口
-server.listen(PORT, '0.0.0.0', () => {
-    console.log(`服务器已启动，访问地址：http://0.0.0.0:${PORT}`);
+// 允许通过环境变量覆盖监听地址，便于受限环境使用本地回环地址启动
+server.listen(PORT, HOST, () => {
+    const displayHost = HOST === '0.0.0.0' ? 'localhost' : HOST;
+    console.log(`服务器已启动，访问地址：http://${displayHost}:${PORT}`);
 });
 
 // 删除或注释掉这行，因为它会导致端口冲突
