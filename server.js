@@ -4,9 +4,13 @@ const path = require('path');
 const cors = require('cors');
 const { encrypt, decrypt } = require('./utils/crypto');
 const http = require('http');
+const { updateDataset } = require('./datasetUpdater');
 const app = express();
 const PORT = 3001;
 const HOST = process.env.HOST || '0.0.0.0';
+let isDatasetUpdating = false;
+
+app.use(express.json());
 
 // 使用 CORS 中间件
 app.use(cors({
@@ -133,7 +137,7 @@ app.get('/api/random-player', (req, res) => {
 });
 
 // 验证用户猜测
-app.post('/api/guess', express.json(), (req, res) => {
+app.post('/api/guess', (req, res) => {
     const { guess, hiddenName } = req.body;
     if (!guess || !hiddenName) {
         return res.status(400).json({ error: '缺少必要参数' });
@@ -172,7 +176,7 @@ app.get('/api/search-players', (req, res) => {
 });
 
 // 添加解密端点
-app.post('/api/decrypt', express.json(), (req, res) => {
+app.post('/api/decrypt', (req, res) => {
     try {
         const { encryptedData } = req.body;
         const decryptedData = decrypt(encryptedData);
@@ -180,6 +184,30 @@ app.post('/api/decrypt', express.json(), (req, res) => {
     } catch (error) {
         console.error('解密失败:', error);
         res.status(500).json({ error: '解密失败' });
+    }
+});
+
+// 自动抓取 HLTV 并更新本地数据集
+app.post('/api/admin/update-dataset', async (req, res) => {
+    if (isDatasetUpdating) {
+        return res.status(409).json({ error: '数据集正在更新中，请稍后再试' });
+    }
+
+    isDatasetUpdating = true;
+
+    try {
+        const result = await updateDataset({
+            useSavedHtml: Boolean(req.body?.useSavedHtml),
+            strategy: req.body?.strategy,
+        });
+        res.json(result);
+    } catch (error) {
+        console.error('更新选手库失败:', error);
+        res.status(500).json({
+            error: error.message || '更新选手库失败',
+        });
+    } finally {
+        isDatasetUpdating = false;
     }
 });
 

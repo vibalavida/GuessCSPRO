@@ -415,6 +415,56 @@ td[style*="yellow"] {
     margin: 5px 0;
 }
 
+.header-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.update-button {
+    padding: 8px 16px;
+    background-color: var(--slate-blue);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.update-button:hover:not(:disabled) {
+    transform: translateY(-1px);
+}
+
+.update-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.dataset-update-panel {
+    max-width: 560px;
+    margin: 24px auto 0;
+    padding: 16px 18px;
+    background-color: var(--mocha-light);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.dataset-update-panel h3 {
+    margin: 0 0 10px;
+    color: var(--muted-yellow);
+}
+
+.dataset-update-panel p {
+    margin: 6px 0;
+}
+
+.dataset-update-hint {
+    opacity: 0.8;
+    font-size: 0.95em;
+}
+
 /* 添加移动端响应式样式 */
 @media screen and (max-width: 768px) {
     .game-container {
@@ -443,6 +493,11 @@ td[style*="yellow"] {
     .button-group button {
         flex: 1;
         min-width: 120px;
+    }
+
+    .header-actions {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .answer-container {

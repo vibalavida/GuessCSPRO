@@ -1,4 +1,36 @@
 {
+    "910": {
+        "link": "https://www.hltv.org/player/21809/910",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": 2003,
+        "role": "AWPer",
+        "majapp": 2
+    },
+    "donk": {
+        "link": "https://www.hltv.org/player/21167/donk",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "blameF": {
+        "link": "https://www.hltv.org/player/15165/blamef",
+        "country": "Denmark",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "COLON": {
+        "link": "https://www.hltv.org/player/515/colon",
+        "country": "Denmark",
+        "team": "Reason",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "ZywOo": {
         "link": "https://www.hltv.org/player/11893/zywoo",
         "country": "France",
@@ -18,18 +50,18 @@
     "m0NESY": {
         "link": "https://www.hltv.org/player/19230/m0nesy",
         "country": "Russia",
-        "team": "Falcons",
+        "team": "G2",
         "birth_year": 2006,
         "role": "AWPer",
         "majapp": 4
     },
-    "sh1ro": {
-        "link": "https://www.hltv.org/player/16920/sh1ro",
-        "country": "Russia",
-        "team": "Spirit",
-        "birth_year": 2002,
-        "role": "AWPer",
-        "majapp": 5
+    "smooya": {
+        "link": "https://www.hltv.org/player/11271/smooya",
+        "country": "United Kingdom",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "s1mple": {
         "link": "https://www.hltv.org/player/7998/s1mple",
@@ -39,21 +71,37 @@
         "role": "AWPer",
         "majapp": 13
     },
-    "w0nderful": {
-        "link": "https://www.hltv.org/player/20127/w0nderful",
-        "country": "Ukraine",
-        "team": "Natus Vincere",
-        "birth_year": 2005,
-        "role": "AWPer",
-        "majapp": 3
-    },
-    "degster": {
-        "link": "https://www.hltv.org/player/17306/degster",
+    "sh1ro": {
+        "link": "https://www.hltv.org/player/16920/sh1ro",
         "country": "Russia",
         "team": "Spirit",
         "birth_year": 2002,
         "role": "AWPer",
         "majapp": 5
+    },
+    "ICY": {
+        "link": "https://www.hltv.org/player/21439/icy",
+        "country": "Kazakhstan",
+        "team": "AMKAL",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "headtr1ck": {
+        "link": "https://www.hltv.org/player/19592/headtr1ck",
+        "country": "Ukraine",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": 2005,
+        "role": "AWPer",
+        "majapp": 1
+    },
+    "znajder": {
+        "link": "https://www.hltv.org/player/3847/znajder",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "device": {
         "link": "https://www.hltv.org/player/7592/device",
@@ -63,21 +111,69 @@
         "role": "AWPer",
         "majapp": 16
     },
+    "degster": {
+        "link": "https://www.hltv.org/player/17306/degster",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": 2002,
+        "role": "AWPer",
+        "majapp": 5
+    },
+    "ultimate": {
+        "link": "https://www.hltv.org/player/21763/ultimate",
+        "country": "Poland",
+        "team": "Liquid",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fear": {
+        "link": "https://www.hltv.org/player/17803/fear",
+        "country": "Ukraine",
+        "team": "Passion UA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fame": {
+        "link": "https://www.hltv.org/player/20101/fame",
+        "country": "Russia",
+        "team": "Virtus.pro",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "zorte": {
+        "link": "https://www.hltv.org/player/15662/zorte",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "KENSI": {
+        "link": "https://www.hltv.org/player/19236/kensi",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "NiKo": {
         "link": "https://www.hltv.org/player/3741/niko",
         "country": "Bosnia and Herzegovina",
-        "team": "Falcons",
+        "team": "G2",
         "birth_year": 1997,
         "role": "Rifler",
         "majapp": 14
     },
-    "ropz": {
-        "link": "https://www.hltv.org/player/11816/ropz",
-        "country": "Estonia",
-        "team": "Vitality",
-        "birth_year": 2000,
-        "role": "Rifler",
-        "majapp": 10
+    "kNgV-": {
+        "link": "https://www.hltv.org/player/5736/kngv",
+        "country": "Brazil",
+        "team": "Immortals",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "KSCERATO": {
         "link": "https://www.hltv.org/player/15631/kscerato",
@@ -86,6 +182,14 @@
         "birth_year": 2000,
         "role": "Rifler",
         "majapp": 8
+    },
+    "w0nderful": {
+        "link": "https://www.hltv.org/player/20127/w0nderful",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 2005,
+        "role": "AWPer",
+        "majapp": 3
     },
     "autimatic": {
         "link": "https://www.hltv.org/player/8735/autimatic",
@@ -103,21 +207,45 @@
         "role": "Rifler",
         "majapp": 14
     },
-    "fame": {
-        "link": "https://www.hltv.org/player/20101/fame",
-        "country": "Russia",
-        "team": "Virtus.pro",
-        "birth_year": 2003,
+    "ropz": {
+        "link": "https://www.hltv.org/player/11816/ropz",
+        "country": "Estonia",
+        "team": "FaZe",
+        "birth_year": 2000,
         "role": "Rifler",
-        "majapp": 3
+        "majapp": 10
     },
-    "910": {
-        "link": "https://www.hltv.org/player/21809/910",
-        "country": "Mongolia",
-        "team": "The MongolZ",
-        "birth_year": 2003,
-        "role": "AWPer",
-        "majapp": 2
+    "BOROS": {
+        "link": "https://www.hltv.org/player/19763/boros",
+        "country": "Jordan",
+        "team": "Monte",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ottoNd": {
+        "link": "https://www.hltv.org/player/11283/ottond",
+        "country": "Finland",
+        "team": "CR4ZY",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Snax": {
+        "link": "https://www.hltv.org/player/2553/snax",
+        "country": "Poland",
+        "team": "Virtus.pro",
+        "birth_year": 1994,
+        "role": "Rifler",
+        "majapp": 15
+    },
+    "Brehze": {
+        "link": "https://www.hltv.org/player/9136/brehze",
+        "country": "United States",
+        "team": "NRG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "stavn": {
         "link": "https://www.hltv.org/player/10994/stavn",
@@ -135,61 +263,69 @@
         "role": "Rifler",
         "majapp": 12
     },
-    "frozen": {
-        "link": "https://www.hltv.org/player/9960/frozen",
-        "country": "Slovakia",
-        "team": "FaZe",
-        "birth_year": 2003,
-        "role": "Rifler",
-        "majapp": 6
+    "El1an": {
+        "link": "https://www.hltv.org/player/13281/el1an",
+        "country": "Russia",
+        "team": "Entropiq",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xsepower": {
+        "link": "https://www.hltv.org/player/12733/xsepower",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "suNny": {
+        "link": "https://www.hltv.org/player/5479/sunny",
+        "country": "Finland",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "facecrack": {
+        "link": "https://www.hltv.org/player/8726/facecrack",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Spinx": {
         "link": "https://www.hltv.org/player/18221/spinx",
         "country": "Israel",
-        "team": "MOUZ",
+        "team": "Vitality",
         "birth_year": 2001,
         "role": "Rifler",
         "majapp": 6
     },
-    "nicoodoz": {
-        "link": "https://www.hltv.org/player/13602/nicoodoz",
-        "country": "Denmark",
-        "team": "Copenhagen Flames",
-        "birth_year": 2001,
-        "role": "AWPer",
+    "CRUC1AL": {
+        "link": "https://www.hltv.org/player/7996/cruc1al",
+        "country": "Netherlands",
+        "team": "Into the Breach",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "swag": {
+        "link": "https://www.hltv.org/player/5021/swag",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "XANTARES": {
+        "link": "https://www.hltv.org/player/7938/xantares",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": 1996,
+        "role": "Rifler",
         "majapp": 5
-    },
-    "broky": {
-        "link": "https://www.hltv.org/player/18053/broky",
-        "country": "Latvia",
-        "team": "FaZe",
-        "birth_year": 2001,
-        "role": "AWPer",
-        "majapp": 6
-    },
-    "Kjaerbye": {
-        "link": "https://www.hltv.org/player/8394/kjaerbye",
-        "country": "Denmark",
-        "team": "Astralis",
-        "birth_year": 1999,
-        "role": "Rifler",
-        "majapp": 7
-    },
-    "olofmeister": {
-        "link": "https://www.hltv.org/player/885/olofmeister",
-        "country": "Sweden",
-        "team": "fnatic",
-        "birth_year": 1992,
-        "role": "Rifler",
-        "majapp": 16
-    },
-    "f0rest": {
-        "link": "https://www.hltv.org/player/29/f0rest",
-        "country": "Sweden",
-        "team": "Ninjas in Pyjamas",
-        "birth_year": 1989,
-        "role": "Rifler",
-        "majapp": 12
     },
     "electroNic": {
         "link": "https://www.hltv.org/player/8918/electronic",
@@ -199,13 +335,149 @@
         "role": "Rifler",
         "majapp": 12
     },
-    "headtr1ck": {
-        "link": "https://www.hltv.org/player/19592/headtr1ck",
-        "country": "Ukraine",
-        "team": "B8",
-        "birth_year": 2005,
+    "broky": {
+        "link": "https://www.hltv.org/player/18053/broky",
+        "country": "Latvia",
+        "team": "FaZe",
+        "birth_year": 2001,
         "role": "AWPer",
-        "majapp": 1
+        "majapp": 6
+    },
+    "insani": {
+        "link": "https://www.hltv.org/player/21037/insani",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JOTA": {
+        "link": "https://www.hltv.org/player/17861/jota",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "syrsoN": {
+        "link": "https://www.hltv.org/player/7266/syrson",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ISSAA": {
+        "link": "https://www.hltv.org/player/10449/issaa",
+        "country": "Jordan",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Jimpphat": {
+        "link": "https://www.hltv.org/player/18850/jimpphat",
+        "country": "Finland",
+        "team": "MOUZ",
+        "birth_year": 2007,
+        "role": "Rifler",
+        "majapp": 2
+    },
+    "Tuurtle": {
+        "link": "https://www.hltv.org/player/14394/tuurtle",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "paz": {
+        "link": "https://www.hltv.org/player/9353/paz",
+        "country": "Turkey",
+        "team": "Space Soldiers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sl3nd": {
+        "link": "https://www.hltv.org/player/20870/sl3nd",
+        "country": "Hungary",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "jambo": {
+        "link": "https://www.hltv.org/player/23046/jambo",
+        "country": "Ukraine",
+        "team": "Passion UA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Kjaerbye": {
+        "link": "https://www.hltv.org/player/8394/kjaerbye",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": 1999,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "frozen": {
+        "link": "https://www.hltv.org/player/9960/frozen",
+        "country": "Slovakia",
+        "team": "FaZe",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "olofmeister": {
+        "link": "https://www.hltv.org/player/885/olofmeister",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": 1992,
+        "role": "Rifler",
+        "majapp": 16
+    },
+    "faveN": {
+        "link": "https://www.hltv.org/player/14932/faven",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "f0rest": {
+        "link": "https://www.hltv.org/player/29/f0rest",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": 1989,
+        "role": "Rifler",
+        "majapp": 12
+    },
+    "Jame": {
+        "link": "https://www.hltv.org/player/13776/jame",
+        "country": "Russia",
+        "team": "AVANGAR",
+        "birth_year": 1999,
+        "role": "AWPer",
+        "majapp": 8
+    },
+    "Nico": {
+        "link": "https://www.hltv.org/player/7413/nico",
+        "country": "Denmark",
+        "team": "CPH Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Djoko": {
+        "link": "https://www.hltv.org/player/19738/djoko",
+        "country": "France",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Magisk": {
         "link": "https://www.hltv.org/player/9032/magisk",
@@ -215,45 +487,61 @@
         "role": "Rifler",
         "majapp": 9
     },
-    "nqz": {
-        "link": "https://www.hltv.org/player/19694/nqz",
-        "country": "Brazil",
-        "team": "paiN",
-        "birth_year": 2005,
-        "role": "AWPer",
-        "majapp": 3
-    },
-    "Snax": {
-        "link": "https://www.hltv.org/player/2553/snax",
-        "country": "Poland",
-        "team": "GamerLegion",
-        "birth_year": 1994,
-        "role": "Rifler",
-        "majapp": 15
-    },
     "Twistzz": {
         "link": "https://www.hltv.org/player/10394/twistzz",
         "country": "Canada",
-        "team": "FaZe",
+        "team": "Liquid",
         "birth_year": 2000,
         "role": "Rifler",
         "majapp": 9
     },
-    "Jame": {
-        "link": "https://www.hltv.org/player/13776/jame",
-        "country": "Russia",
-        "team": "PARIVISION",
-        "birth_year": 1999,
-        "role": "AWPer",
-        "majapp": 8
+    "Ethan": {
+        "link": "https://www.hltv.org/player/10671/ethan",
+        "country": "United States",
+        "team": "NRG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "XANTARES": {
-        "link": "https://www.hltv.org/player/7938/xantares",
-        "country": "Turkey",
-        "team": "Aurora",
+    "NertZ": {
+        "link": "https://www.hltv.org/player/9436/nertz",
+        "country": "Israel",
+        "team": "HEROIC",
+        "birth_year": 2000,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "Bymas": {
+        "link": "https://www.hltv.org/player/19015/bymas",
+        "country": "Lithuania",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Patsi": {
+        "link": "https://www.hltv.org/player/19673/patsi",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "huNter-": {
+        "link": "https://www.hltv.org/player/3972/hunter",
+        "country": "Bosnia and Herzegovina",
+        "team": "G2",
         "birth_year": 1996,
         "role": "Rifler",
-        "majapp": 5
+        "majapp": 6
+    },
+    "Ex3rcice": {
+        "link": "https://www.hltv.org/player/19739/ex3rcice",
+        "country": "France",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Happy": {
         "link": "https://www.hltv.org/player/7429/happy",
@@ -271,13 +559,29 @@
         "role": "AWPer",
         "majapp": 14
     },
-    "latto": {
-        "link": "https://www.hltv.org/player/19045/latto",
-        "country": "Brazil",
-        "team": "Legacy",
-        "birth_year": 2003,
-        "role": "Rifler",
-        "majapp": 3
+    "DemQQ": {
+        "link": "https://www.hltv.org/player/19733/demqq",
+        "country": "Ukraine",
+        "team": "Monte",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "oskar": {
+        "link": "https://www.hltv.org/player/798/oskar",
+        "country": "Czech Republic",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "COLDYY1": {
+        "link": "https://www.hltv.org/player/9083/coldyy1",
+        "country": "Ukraine",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "cajunb": {
         "link": "https://www.hltv.org/player/2469/cajunb",
@@ -287,6 +591,14 @@
         "role": "Rifler",
         "majapp": 13
     },
+    "nawwk": {
+        "link": "https://www.hltv.org/player/13670/nawwk",
+        "country": "Sweden",
+        "team": "Apeks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "GeT_RiGhT": {
         "link": "https://www.hltv.org/player/39/get-right",
         "country": "Sweden",
@@ -294,6 +606,22 @@
         "birth_year": 1991,
         "role": "Rifler",
         "majapp": 12
+    },
+    "b1t": {
+        "link": "https://www.hltv.org/player/18987/b1t",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "KRIMZ": {
+        "link": "https://www.hltv.org/player/7528/krimz",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": 1995,
+        "role": "Rifler",
+        "majapp": 17
     },
     "kennyS": {
         "link": "https://www.hltv.org/player/7167/kennys",
@@ -303,29 +631,77 @@
         "role": "AWPer",
         "majapp": 14
     },
+    "decenty": {
+        "link": "https://www.hltv.org/player/20183/decenty",
+        "country": "Brazil",
+        "team": "Imperial",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "NAF": {
+        "link": "https://www.hltv.org/player/8520/naf",
+        "country": "Canada",
+        "team": "Liquid",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 11
+    },
+    "susp": {
+        "link": "https://www.hltv.org/player/21163/susp",
+        "country": "Sweden",
+        "team": "Wildcard",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "biguzera": {
+        "link": "https://www.hltv.org/player/18141/biguzera",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": 1997,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "oSee": {
+        "link": "https://www.hltv.org/player/13249/osee",
+        "country": "United States",
+        "team": "Liquid",
+        "birth_year": 2000,
+        "role": "AWPer",
+        "majapp": 3
+    },
+    "jackasmo": {
+        "link": "https://www.hltv.org/player/23414/jackasmo",
+        "country": "Ukraine",
+        "team": "Passion UA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Zyphon": {
+        "link": "https://www.hltv.org/player/20090/zyphon",
+        "country": "Denmark",
+        "team": "Copenhagen Flames",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "jks": {
         "link": "https://www.hltv.org/player/4679/jks",
         "country": "Australia",
-        "team": "FlyQuest",
+        "team": "Liquid",
         "birth_year": 1996,
         "role": "Rifler",
         "majapp": 9
     },
-    "huNter-": {
-        "link": "https://www.hltv.org/player/3972/hunter",
-        "country": "Bosnia and Herzegovina",
-        "team": "G2",
-        "birth_year": 1996,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "b1t": {
-        "link": "https://www.hltv.org/player/18987/b1t",
-        "country": "Ukraine",
-        "team": "Natus Vincere",
-        "birth_year": 2003,
-        "role": "Rifler",
-        "majapp": 6
+    "nicoodoz": {
+        "link": "https://www.hltv.org/player/13602/nicoodoz",
+        "country": "Denmark",
+        "team": "Copenhagen Flames",
+        "birth_year": 2001,
+        "role": "AWPer",
+        "majapp": 5
     },
     "Perfecto": {
         "link": "https://www.hltv.org/player/16947/perfecto",
@@ -343,30 +719,6 @@
         "role": "Rifler",
         "majapp": 13
     },
-    "KRIMZ": {
-        "link": "https://www.hltv.org/player/7528/krimz",
-        "country": "Sweden",
-        "team": "fnatic",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 17
-    },
-    "NertZ": {
-        "link": "https://www.hltv.org/player/9436/nertz",
-        "country": "Israel",
-        "team": "HEROIC",
-        "birth_year": 2000,
-        "role": "Rifler",
-        "majapp": 3
-    },
-    "dumau": {
-        "link": "https://www.hltv.org/player/15698/dumau",
-        "country": "Brazil",
-        "team": "Legacy",
-        "birth_year": 2004,
-        "role": "Rifler",
-        "majapp": 3
-    },
     "dupreeh": {
         "link": "https://www.hltv.org/player/7398/dupreeh",
         "country": "Denmark",
@@ -383,12 +735,76 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "snatchie": {
+        "link": "https://www.hltv.org/player/9574/snatchie",
+        "country": "Poland",
+        "team": "Virtus.pro",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hardzao": {
+        "link": "https://www.hltv.org/player/16817/hardzao",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "nexa": {
         "link": "https://www.hltv.org/player/9618/nexa",
         "country": "Serbia",
         "team": "G2",
         "birth_year": 1998,
         "role": "Rifler",
+        "majapp": 4
+    },
+    "Kvik": {
+        "link": "https://www.hltv.org/player/8459/kvik",
+        "country": "Lithuania",
+        "team": "Winstrike",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "saffee": {
+        "link": "https://www.hltv.org/player/18835/saffee",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": 1995,
+        "role": "AWPer",
+        "majapp": 5
+    },
+    "hallzerk": {
+        "link": "https://www.hltv.org/player/12840/hallzerk",
+        "country": "Norway",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Woro2k": {
+        "link": "https://www.hltv.org/player/16885/woro2k",
+        "country": "Ukraine",
+        "team": "Monte",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "EliGE": {
+        "link": "https://www.hltv.org/player/8738/elige",
+        "country": "United States",
+        "team": "Liquid",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 14
+    },
+    "torzsi": {
+        "link": "https://www.hltv.org/player/18072/torzsi",
+        "country": "Hungary",
+        "team": "MOUZ",
+        "birth_year": 2003,
+        "role": "AWPer",
         "majapp": 4
     },
     "allu": {
@@ -407,13 +823,13 @@
         "role": "Rifler",
         "majapp": 5
     },
-    "EliGE": {
-        "link": "https://www.hltv.org/player/8738/elige",
-        "country": "United States",
-        "team": "Liquid",
-        "birth_year": 1998,
-        "role": "Rifler",
-        "majapp": 14
+    "DAVEY": {
+        "link": "https://www.hltv.org/player/8508/davey",
+        "country": "Canada",
+        "team": "Splyce",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "shox": {
         "link": "https://www.hltv.org/player/1225/shox",
@@ -423,13 +839,37 @@
         "role": "Rifler",
         "majapp": 17
     },
-    "yuurih": {
-        "link": "https://www.hltv.org/player/12553/yuurih",
+    "Wicadia": {
+        "link": "https://www.hltv.org/player/21243/wicadia",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "woxic": {
+        "link": "https://www.hltv.org/player/8574/woxic",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": 1999,
+        "role": "AWPer",
+        "majapp": 5
+    },
+    "HEN1": {
+        "link": "https://www.hltv.org/player/8565/hen1",
         "country": "Brazil",
-        "team": "FURIA",
-        "birth_year": 2000,
+        "team": "Imperial",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "bLitz": {
+        "link": "https://www.hltv.org/player/20194/blitz",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": 2002,
         "role": "Rifler",
-        "majapp": 8
+        "majapp": 5
     },
     "byali": {
         "link": "https://www.hltv.org/player/5386/byali",
@@ -439,37 +879,13 @@
         "role": "Rifler",
         "majapp": 13
     },
-    "SunPayus": {
-        "link": "https://www.hltv.org/player/19164/sunpayus",
-        "country": "Spain",
-        "team": "G2",
-        "birth_year": 1999,
-        "role": "AWPer",
-        "majapp": 3
-    },
-    "mezii": {
-        "link": "https://www.hltv.org/player/18462/mezii",
-        "country": "United Kingdom",
-        "team": "Vitality",
-        "birth_year": 1999,
+    "yuurih": {
+        "link": "https://www.hltv.org/player/12553/yuurih",
+        "country": "Brazil",
+        "team": "FURIA",
+        "birth_year": 2000,
         "role": "Rifler",
-        "majapp": 4
-    },
-    "Edward": {
-        "link": "https://www.hltv.org/player/483/edward",
-        "country": "Ukraine",
-        "team": "Natus Vincere",
-        "birth_year": 1988,
-        "role": "Rifler",
-        "majapp": 13
-    },
-    "woxic": {
-        "link": "https://www.hltv.org/player/8574/woxic",
-        "country": "Turkey",
-        "team": "Aurora",
-        "birth_year": 1999,
-        "role": "AWPer",
-        "majapp": 5
+        "majapp": 8
     },
     "magixx": {
         "link": "https://www.hltv.org/player/18317/magixx",
@@ -479,21 +895,37 @@
         "role": "Rifler",
         "majapp": 5
     },
-    "iM": {
-        "link": "https://www.hltv.org/player/14759/im",
-        "country": "Romania",
-        "team": "Natus Vincere",
-        "birth_year": 2000,
-        "role": "Rifler",
-        "majapp": 4
+    "CeRq": {
+        "link": "https://www.hltv.org/player/11219/cerq",
+        "country": "Bulgaria",
+        "team": "NRG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "bLitz": {
-        "link": "https://www.hltv.org/player/20194/blitz",
-        "country": "Mongolia",
-        "team": "The MongolZ",
-        "birth_year": 2002,
+    "mou": {
+        "link": "https://www.hltv.org/player/964/mou",
+        "country": "Kazakhstan",
+        "team": "Gambit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Edward": {
+        "link": "https://www.hltv.org/player/483/edward",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 1988,
         "role": "Rifler",
-        "majapp": 5
+        "majapp": 13
+    },
+    "Starry": {
+        "link": "https://www.hltv.org/player/20254/starry",
+        "country": "China",
+        "team": "Lynn Vision",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "cadiaN": {
         "link": "https://www.hltv.org/player/7964/cadian",
@@ -511,13 +943,21 @@
         "role": "Rifler",
         "majapp": 17
     },
-    "NAF": {
-        "link": "https://www.hltv.org/player/8520/naf",
-        "country": "Canada",
-        "team": "Liquid",
-        "birth_year": 1998,
+    "mzinho": {
+        "link": "https://www.hltv.org/player/21001/mzinho",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": 2008,
         "role": "Rifler",
-        "majapp": 11
+        "majapp": 2
+    },
+    "SKYTTEN": {
+        "link": "https://www.hltv.org/player/2398/skytten",
+        "country": "Sweden",
+        "team": "LGB",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "HObbit": {
         "link": "https://www.hltv.org/player/8528/hobbit",
@@ -527,6 +967,14 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "EXR": {
+        "link": "https://www.hltv.org/player/2881/exr",
+        "country": "Denmark",
+        "team": "Reason",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "acoR": {
         "link": "https://www.hltv.org/player/10330/acor",
         "country": "Denmark",
@@ -534,46 +982,6 @@
         "birth_year": 1998,
         "role": "AWPer",
         "majapp": 4
-    },
-    "torzsi": {
-        "link": "https://www.hltv.org/player/18072/torzsi",
-        "country": "Hungary",
-        "team": "MOUZ",
-        "birth_year": 2003,
-        "role": "AWPer",
-        "majapp": 4
-    },
-    "YEKINDAR": {
-        "link": "https://www.hltv.org/player/13915/yekindar",
-        "country": "Latvia",
-        "team": "FURIA",
-        "birth_year": 2000,
-        "role": "Rifler",
-        "majapp": 5
-    },
-    "saffee": {
-        "link": "https://www.hltv.org/player/18835/saffee",
-        "country": "Brazil",
-        "team": "paiN",
-        "birth_year": 1995,
-        "role": "AWPer",
-        "majapp": 5
-    },
-    "n1ssim": {
-        "link": "https://www.hltv.org/player/19686/n1ssim",
-        "country": "Brazil",
-        "team": "Legacy",
-        "birth_year": 2002,
-        "role": "Rifler",
-        "majapp": 1
-    },
-    "JW": {
-        "link": "https://www.hltv.org/player/3849/jw",
-        "country": "Sweden",
-        "team": "fnatic",
-        "birth_year": 1995,
-        "role": "AWPer",
-        "majapp": 14
     },
     "fer": {
         "link": "https://www.hltv.org/player/8564/fer",
@@ -583,13 +991,85 @@
         "role": "Rifler",
         "majapp": 13
     },
-    "mzinho": {
-        "link": "https://www.hltv.org/player/21001/mzinho",
-        "country": "Mongolia",
-        "team": "The MongolZ",
-        "birth_year": 2008,
+    "xccurate": {
+        "link": "https://www.hltv.org/player/10263/xccurate",
+        "country": "Indonesia",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "YEKINDAR": {
+        "link": "https://www.hltv.org/player/13915/yekindar",
+        "country": "Latvia",
+        "team": "Liquid",
+        "birth_year": 2000,
         "role": "Rifler",
-        "majapp": 2
+        "majapp": 5
+    },
+    "skullz": {
+        "link": "https://www.hltv.org/player/18676/skullz",
+        "country": "Brazil",
+        "team": "FURIA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "n1ssim": {
+        "link": "https://www.hltv.org/player/19686/n1ssim",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": 2002,
+        "role": "Rifler",
+        "majapp": 1
+    },
+    "hampus": {
+        "link": "https://www.hltv.org/player/9766/hampus",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "vice": {
+        "link": "https://www.hltv.org/player/9260/vice",
+        "country": "United States",
+        "team": "Rogue",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Ax1Le": {
+        "link": "https://www.hltv.org/player/16555/ax1le",
+        "country": "Russia",
+        "team": "Cloud9",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 5
+    },
+    "kaze": {
+        "link": "https://www.hltv.org/player/8950/kaze",
+        "country": "Malaysia",
+        "team": "Rare Atom",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JW": {
+        "link": "https://www.hltv.org/player/3849/jw",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": 1995,
+        "role": "AWPer",
+        "majapp": 14
+    },
+    "nqz": {
+        "link": "https://www.hltv.org/player/19694/nqz",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": 2005,
+        "role": "AWPer",
+        "majapp": 3
     },
     "jL": {
         "link": "https://www.hltv.org/player/19206/jl",
@@ -597,6 +1077,38 @@
         "team": "Natus Vincere",
         "birth_year": 2000,
         "role": "Rifler",
+        "majapp": 3
+    },
+    "dgt": {
+        "link": "https://www.hltv.org/player/14736/dgt",
+        "country": "Uruguay",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DANK1NG": {
+        "link": "https://www.hltv.org/player/16207/dank1ng",
+        "country": "China",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "iM": {
+        "link": "https://www.hltv.org/player/14759/im",
+        "country": "Romania",
+        "team": "Natus Vincere",
+        "birth_year": 2000,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "SunPayus": {
+        "link": "https://www.hltv.org/player/19164/sunpayus",
+        "country": "Spain",
+        "team": "ENCE",
+        "birth_year": 1999,
+        "role": "AWPer",
         "majapp": 3
     },
     "friberg": {
@@ -623,13 +1135,13 @@
         "role": "Rifler",
         "majapp": 5
     },
-    "oSee": {
-        "link": "https://www.hltv.org/player/13249/osee",
-        "country": "United States",
-        "team": "NRG",
-        "birth_year": 2000,
-        "role": "AWPer",
-        "majapp": 3
+    "Senzu": {
+        "link": "https://www.hltv.org/player/20903/senzu",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "seized": {
         "link": "https://www.hltv.org/player/3347/seized",
@@ -639,13 +1151,13 @@
         "role": "Rifler",
         "majapp": 12
     },
-    "k0nfig": {
-        "link": "https://www.hltv.org/player/9078/k0nfig",
-        "country": "Denmark",
-        "team": "North",
-        "birth_year": 1998,
+    "Brollan": {
+        "link": "https://www.hltv.org/player/13666/brollan",
+        "country": "Sweden",
+        "team": "MOUZ",
+        "birth_year": 2003,
         "role": "Rifler",
-        "majapp": 7
+        "majapp": 6
     },
     "FalleN": {
         "link": "https://www.hltv.org/player/2023/fallen",
@@ -655,13 +1167,61 @@
         "role": "AWPer",
         "majapp": 16
     },
-    "REZ": {
-        "link": "https://www.hltv.org/player/9278/rez",
-        "country": "Sweden",
-        "team": "GamerLegion",
+    "k0nfig": {
+        "link": "https://www.hltv.org/player/9078/k0nfig",
+        "country": "Denmark",
+        "team": "North",
         "birth_year": 1998,
         "role": "Rifler",
         "majapp": 7
+    },
+    "BnTeT": {
+        "link": "https://www.hltv.org/player/7131/bntet",
+        "country": "Indonesia",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Calyx": {
+        "link": "https://www.hltv.org/player/8575/calyx",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "REZ": {
+        "link": "https://www.hltv.org/player/9278/rez",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "Ramz1kBO$$": {
+        "link": "https://www.hltv.org/player/11842/ramz1kbo",
+        "country": "Kazakhstan",
+        "team": "Syman",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SEMPHIS": {
+        "link": "https://www.hltv.org/player/1915/semphis",
+        "country": "Canada",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ANDROID": {
+        "link": "https://www.hltv.org/player/9043/android",
+        "country": "Canada",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "TaZ": {
         "link": "https://www.hltv.org/player/161/taz",
@@ -671,59 +1231,43 @@
         "role": "Rifler",
         "majapp": 12
     },
-    "biguzera": {
-        "link": "https://www.hltv.org/player/18141/biguzera",
-        "country": "Brazil",
-        "team": "paiN",
-        "birth_year": 1997,
-        "role": "Rifler",
-        "majapp": 4
-    },
-    "Jimpphat": {
-        "link": "https://www.hltv.org/player/18850/jimpphat",
-        "country": "Finland",
-        "team": "MOUZ",
-        "birth_year": 2007,
-        "role": "Rifler",
-        "majapp": 2
-    },
-    "NBK-": {
-        "link": "https://www.hltv.org/player/7168/nbk",
-        "country": "France",
-        "team": "Envy",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 14
-    },
     "jabbi": {
         "link": "https://www.hltv.org/player/17956/jabbi",
         "country": "Denmark",
-        "team": "Astralis",
+        "team": "Copenhagen Flames",
         "birth_year": 2004,
         "role": "Rifler",
         "majapp": 4
     },
-    "kioShiMa": {
-        "link": "https://www.hltv.org/player/4959/kioshima",
-        "country": "France",
-        "team": "Envy",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 11
+    "Freeman": {
+        "link": "https://www.hltv.org/player/10774/freeman",
+        "country": "Hong Kong",
+        "team": "ViCi",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "AdreN": {
-        "link": "https://www.hltv.org/player/334/adren",
-        "country": "Kazakhstan",
-        "team": "Gambit",
-        "birth_year": 1990,
-        "role": "Rifler",
-        "majapp": 12
+    "nin9": {
+        "link": "https://www.hltv.org/player/15072/nin9",
+        "country": "Mongolia",
+        "team": "IHC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "xertioN": {
-        "link": "https://www.hltv.org/player/20312/xertion",
-        "country": "Israel",
-        "team": "MOUZ",
-        "birth_year": 2005,
+    "n0rb3r7": {
+        "link": "https://www.hltv.org/player/16612/n0rb3r7",
+        "country": "Russia",
+        "team": "Outsiders",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "mezii": {
+        "link": "https://www.hltv.org/player/18462/mezii",
+        "country": "United Kingdom",
+        "team": "Vitality",
+        "birth_year": 1999,
         "role": "Rifler",
         "majapp": 4
     },
@@ -735,29 +1279,45 @@
         "role": "Rifler",
         "majapp": 4
     },
-    "boltz": {
-        "link": "https://www.hltv.org/player/8568/boltz",
-        "country": "Brazil",
-        "team": "Imperial",
-        "birth_year": 1998,
+    "NBK-": {
+        "link": "https://www.hltv.org/player/7168/nbk",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": 1995,
         "role": "Rifler",
-        "majapp": 6
+        "majapp": 14
     },
-    "dycha": {
-        "link": "https://www.hltv.org/player/16080/dycha",
-        "country": "Poland",
-        "team": "ENCE",
-        "birth_year": 1998,
-        "role": "Rifler",
-        "majapp": 5
-    },
-    "Ax1Le": {
-        "link": "https://www.hltv.org/player/16555/ax1le",
+    "S1ren": {
+        "link": "https://www.hltv.org/player/18506/s1ren",
         "country": "Russia",
-        "team": "Cloud9",
-        "birth_year": 2003,
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kioShiMa": {
+        "link": "https://www.hltv.org/player/4959/kioshima",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": 1995,
         "role": "Rifler",
-        "majapp": 5
+        "majapp": 11
+    },
+    "es3tag": {
+        "link": "https://www.hltv.org/player/8611/es3tag",
+        "country": "Denmark",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "CYPHER": {
+        "link": "https://www.hltv.org/player/18571/cypher",
+        "country": "United Kingdom",
+        "team": "Into the Breach",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "tabseN": {
         "link": "https://www.hltv.org/player/5794/tabsen",
@@ -767,6 +1327,30 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "sdy": {
+        "link": "https://www.hltv.org/player/12731/sdy",
+        "country": "Ukraine",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "amanek": {
+        "link": "https://www.hltv.org/player/9616/amanek",
+        "country": "France",
+        "team": "G2",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "exit": {
+        "link": "https://www.hltv.org/player/11154/exit",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "apEX": {
         "link": "https://www.hltv.org/player/7322/apex",
         "country": "France",
@@ -774,6 +1358,190 @@
         "birth_year": 1993,
         "role": "Rifler",
         "majapp": 19
+    },
+    "AdreN": {
+        "link": "https://www.hltv.org/player/334/adren",
+        "country": "Kazakhstan",
+        "team": "Gambit",
+        "birth_year": 1990,
+        "role": "Rifler",
+        "majapp": 12
+    },
+    "kraghen": {
+        "link": "https://www.hltv.org/player/20300/kraghen",
+        "country": "Denmark",
+        "team": "ECSTATIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "NEOFRAG": {
+        "link": "https://www.hltv.org/player/15821/neofrag",
+        "country": "Czech Republic",
+        "team": "OG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "jdm64": {
+        "link": "https://www.hltv.org/player/8346/jdm64",
+        "country": "United States",
+        "team": "Liquid",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xfl0ud": {
+        "link": "https://www.hltv.org/player/19187/xfl0ud",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kauez": {
+        "link": "https://www.hltv.org/player/20085/kauez",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "RUBINO": {
+        "link": "https://www.hltv.org/player/1485/rubino",
+        "country": "Norway",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Lucky": {
+        "link": "https://www.hltv.org/player/13843/lucky",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": 2003,
+        "role": "AWPer",
+        "majapp": 1
+    },
+    "Queenix": {
+        "link": "https://www.hltv.org/player/13749/queenix",
+        "country": "Denmark",
+        "team": "ECSTATIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Skadoodle": {
+        "link": "https://www.hltv.org/player/7440/skadoodle",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "gade": {
+        "link": "https://www.hltv.org/player/8875/gade",
+        "country": "Denmark",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "boltz": {
+        "link": "https://www.hltv.org/player/8568/boltz",
+        "country": "Brazil",
+        "team": "Imperial",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "Gratisfaction": {
+        "link": "https://www.hltv.org/player/9686/gratisfaction",
+        "country": "New Zealand",
+        "team": "Renegades",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dycha": {
+        "link": "https://www.hltv.org/player/16080/dycha",
+        "country": "Poland",
+        "team": "ENCE",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 5
+    },
+    "RUSH": {
+        "link": "https://www.hltv.org/player/7805/rush",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "berg": {
+        "link": "https://www.hltv.org/player/7442/berg",
+        "country": "Sweden",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "b4rtiN": {
+        "link": "https://www.hltv.org/player/17585/b4rtin",
+        "country": "Brazil",
+        "team": "Legacy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Maikelele": {
+        "link": "https://www.hltv.org/player/1045/maikelele",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "pyth": {
+        "link": "https://www.hltv.org/player/7527/pyth",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sergej": {
+        "link": "https://www.hltv.org/player/11916/sergej",
+        "country": "Finland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LUCAS1": {
+        "link": "https://www.hltv.org/player/8566/lucas1",
+        "country": "Brazil",
+        "team": "Immortals",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "k1to": {
+        "link": "https://www.hltv.org/player/12781/k1to",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Attacker": {
+        "link": "https://www.hltv.org/player/8552/attacker",
+        "country": "China",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Dosia": {
         "link": "https://www.hltv.org/player/735/dosia",
@@ -783,13 +1551,13 @@
         "role": "Rifler",
         "majapp": 11
     },
-    "rain": {
-        "link": "https://www.hltv.org/player/8183/rain",
-        "country": "Norway",
-        "team": "FaZe",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 18
+    "isak": {
+        "link": "https://www.hltv.org/player/17937/isak",
+        "country": "Sweden",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Hiko": {
         "link": "https://www.hltv.org/player/2644/hiko",
@@ -799,6 +1567,14 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "rain": {
+        "link": "https://www.hltv.org/player/8183/rain",
+        "country": "Norway",
+        "team": "FaZe",
+        "birth_year": 1995,
+        "role": "Rifler",
+        "majapp": 18
+    },
     "Xizt": {
         "link": "https://www.hltv.org/player/884/xizt",
         "country": "Sweden",
@@ -806,6 +1582,14 @@
         "birth_year": 1991,
         "role": "Rifler",
         "majapp": 11
+    },
+    "juanflatroo": {
+        "link": "https://www.hltv.org/player/17147/juanflatroo",
+        "country": "Kosovo",
+        "team": "Bad News Eagles",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "dennis": {
         "link": "https://www.hltv.org/player/1146/dennis",
@@ -826,10 +1610,26 @@
     "Lucaozy": {
         "link": "https://www.hltv.org/player/18717/lucaozy",
         "country": "Brazil",
-        "team": "Fluxo",
+        "team": "MIBR",
         "birth_year": 2002,
         "role": "Rifler",
         "majapp": 3
+    },
+    "xertioN": {
+        "link": "https://www.hltv.org/player/20312/xertion",
+        "country": "Israel",
+        "team": "MOUZ",
+        "birth_year": 2005,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "aumaN": {
+        "link": "https://www.hltv.org/player/8604/auman",
+        "country": "China",
+        "team": "ViCi",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "aizy": {
         "link": "https://www.hltv.org/player/8095/aizy",
@@ -839,29 +1639,53 @@
         "role": "Rifler",
         "majapp": 11
     },
-    "AZR": {
-        "link": "https://www.hltv.org/player/8082/azr",
-        "country": "Australia",
-        "team": "Renegades",
-        "birth_year": 1993,
-        "role": "Rifler",
-        "majapp": 8
+    "raalz": {
+        "link": "https://www.hltv.org/player/2898/raalz",
+        "country": "Denmark",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Maniac": {
+        "link": "https://www.hltv.org/player/823/maniac",
+        "country": "Switzerland",
+        "team": "LDLC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fnx": {
+        "link": "https://www.hltv.org/player/557/fnx",
+        "country": "Brazil",
+        "team": "Imperial",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "shalfey": {
+        "link": "https://www.hltv.org/player/17011/shalfey",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MATYS": {
+        "link": "https://www.hltv.org/player/21062/matys",
+        "country": "Slovakia",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Boombl4": {
         "link": "https://www.hltv.org/player/11840/boombl4",
         "country": "Russia",
-        "team": "BetBoom",
+        "team": "Natus Vincere",
         "birth_year": 1999,
         "role": "Rifler",
         "majapp": 8
-    },
-    "sjuush": {
-        "link": "https://www.hltv.org/player/14148/sjuush",
-        "country": "Denmark",
-        "team": "Ninjas in Pyjamas",
-        "birth_year": 1999,
-        "role": "Rifler",
-        "majapp": 6
     },
     "FL1T": {
         "link": "https://www.hltv.org/player/12732/fl1t",
@@ -871,6 +1695,102 @@
         "role": "Rifler",
         "majapp": 6
     },
+    "Krimbo": {
+        "link": "https://www.hltv.org/player/19899/krimbo",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "crush": {
+        "link": "https://www.hltv.org/player/9348/crush",
+        "country": "Ukraine",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "rigoN": {
+        "link": "https://www.hltv.org/player/12708/rigon",
+        "country": "Switzerland",
+        "team": "Bad News Eagles",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xseveN": {
+        "link": "https://www.hltv.org/player/7248/xseven",
+        "country": "Finland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "snow": {
+        "link": "https://www.hltv.org/player/20171/snow",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "AZR": {
+        "link": "https://www.hltv.org/player/8082/azr",
+        "country": "Australia",
+        "team": "Renegades",
+        "birth_year": 1993,
+        "role": "Rifler",
+        "majapp": 8
+    },
+    "volt": {
+        "link": "https://www.hltv.org/player/20358/volt",
+        "country": "Romania",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ShahZaM": {
+        "link": "https://www.hltv.org/player/7810/shahzam",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Hyper": {
+        "link": "https://www.hltv.org/player/7368/hyper",
+        "country": "Poland",
+        "team": "eBettle",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "EspiranTo": {
+        "link": "https://www.hltv.org/player/12030/espiranto",
+        "country": "Lithuania",
+        "team": "CR4ZY",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "neaLaN": {
+        "link": "https://www.hltv.org/player/11940/nealan",
+        "country": "Kazakhstan",
+        "team": "Syman",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JBa": {
+        "link": "https://www.hltv.org/player/21665/jba",
+        "country": "United States",
+        "team": "Wildcard",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "markeloff": {
         "link": "https://www.hltv.org/player/338/markeloff",
         "country": "Ukraine",
@@ -878,6 +1798,14 @@
         "birth_year": 1988,
         "role": "Rifler",
         "majapp": 12
+    },
+    "nafany": {
+        "link": "https://www.hltv.org/player/16921/nafany",
+        "country": "Russia",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "chrisJ": {
         "link": "https://www.hltv.org/player/2730/chrisj",
@@ -887,101 +1815,29 @@
         "role": "AWPer",
         "majapp": 10
     },
-    "roeJ": {
-        "link": "https://www.hltv.org/player/14419/roej",
-        "country": "Denmark",
-        "team": "Copenhagen Flames",
-        "birth_year": 1994,
-        "role": "Rifler",
-        "majapp": 4
+    "gxx-": {
+        "link": "https://www.hltv.org/player/19725/gxx",
+        "country": "Kosovo",
+        "team": "Bad News Eagles",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "gla1ve": {
-        "link": "https://www.hltv.org/player/7412/gla1ve",
-        "country": "Denmark",
-        "team": "Astralis",
-        "birth_year": 1996,
-        "role": "Rifler",
-        "majapp": 14
-    },
-    "RpK": {
-        "link": "https://www.hltv.org/player/7169/rpk",
-        "country": "France",
-        "team": "Vitality",
-        "birth_year": 1990,
-        "role": "Rifler",
-        "majapp": 9
-    },
-    "Stewie2K": {
-        "link": "https://www.hltv.org/player/8797/stewie2k",
-        "country": "United States",
-        "team": "Cloud9",
-        "birth_year": 1998,
-        "role": "Rifler",
-        "majapp": 7
-    },
-    "nex": {
-        "link": "https://www.hltv.org/player/7256/nex",
-        "country": "Germany",
-        "team": "BIG",
-        "birth_year": 1993,
-        "role": "Rifler",
-        "majapp": 10
-    },
-    "Qikert": {
-        "link": "https://www.hltv.org/player/13239/qikert",
-        "country": "Kazakhstan",
-        "team": "AVANGAR",
-        "birth_year": 1999,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "Lucky": {
-        "link": "https://www.hltv.org/player/13497/lucky",
-        "country": "France",
-        "team": "3DMAX",
-        "birth_year": 2003,
-        "role": "AWPer",
-        "majapp": 1
-    },
-    "bodyy": {
-        "link": "https://www.hltv.org/player/8374/bodyy",
-        "country": "France",
+    "malbsMd": {
+        "link": "https://www.hltv.org/player/11617/malbsmd",
+        "country": "Guatemala",
         "team": "G2",
-        "birth_year": 1997,
-        "role": "Rifler",
-        "majapp": 7
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "JDC": {
-        "link": "https://www.hltv.org/player/14929/jdc",
-        "country": "Germany",
-        "team": "BIG",
-        "birth_year": 2001,
-        "role": "Rifler",
-        "majapp": 3
-    },
-    "npl": {
-        "link": "https://www.hltv.org/player/21708/npl",
-        "country": "Ukraine",
-        "team": "B8",
-        "birth_year": 2006,
-        "role": "Rifler",
-        "majapp": 1
-    },
-    "Zeus": {
-        "link": "https://www.hltv.org/player/484/zeus",
-        "country": "Ukraine",
-        "team": "Natus Vincere",
-        "birth_year": 1988,
-        "role": "Rifler",
-        "majapp": 15
-    },
-    "Grim": {
-        "link": "https://www.hltv.org/player/13578/grim",
+    "adreN": {
+        "link": "https://www.hltv.org/player/7433/adren",
         "country": "United States",
-        "team": "NRG",
-        "birth_year": 2001,
-        "role": "Rifler",
-        "majapp": 5
+        "team": "Liquid",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Techno": {
         "link": "https://www.hltv.org/player/20275/techno",
@@ -991,53 +1847,245 @@
         "role": "Rifler",
         "majapp": 5
     },
-    "TeSeS": {
-        "link": "https://www.hltv.org/player/12018/teses",
+    "jnt": {
+        "link": "https://www.hltv.org/player/11747/jnt",
+        "country": "Brazil",
+        "team": "Sharks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Shara": {
+        "link": "https://www.hltv.org/player/1866/shara",
+        "country": "Ukraine",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "roeJ": {
+        "link": "https://www.hltv.org/player/14419/roej",
         "country": "Denmark",
-        "team": "Falcons",
-        "birth_year": 2001,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "nitr0": {
-        "link": "https://www.hltv.org/player/7687/nitr0",
-        "country": "United States",
-        "team": "NRG",
-        "birth_year": 1996,
-        "role": "Rifler",
-        "majapp": 12
-    },
-    "Vexite": {
-        "link": "https://www.hltv.org/player/17384/vexite",
-        "country": "Australia",
-        "team": "FlyQuest",
-        "birth_year": 2005,
-        "role": "Rifler",
-        "majapp": 3
-    },
-    "Brollan": {
-        "link": "https://www.hltv.org/player/13666/brollan",
-        "country": "Sweden",
-        "team": "MOUZ",
-        "birth_year": 2003,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "JACKZ": {
-        "link": "https://www.hltv.org/player/284/jackz",
-        "country": "France",
-        "team": "G2",
-        "birth_year": 1993,
+        "team": "Copenhagen Flames",
+        "birth_year": 1994,
         "role": "Rifler",
         "majapp": 4
     },
-    "chelo": {
-        "link": "https://www.hltv.org/player/10566/chelo",
-        "country": "Brazil",
-        "team": "Imperial",
+    "mir": {
+        "link": "https://www.hltv.org/player/8789/mir",
+        "country": "Russia",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "devoduvek": {
+        "link": "https://www.hltv.org/player/10569/devoduvek",
+        "country": "France",
+        "team": "Misfits",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "gla1ve": {
+        "link": "https://www.hltv.org/player/7412/gla1ve",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": 1996,
+        "role": "Rifler",
+        "majapp": 14
+    },
+    "Qikert": {
+        "link": "https://www.hltv.org/player/13239/qikert",
+        "country": "Kazakhstan",
+        "team": "AVANGAR",
         "birth_year": 1999,
         "role": "Rifler",
-        "majapp": 5
+        "majapp": 6
+    },
+    "FL4MUS": {
+        "link": "https://www.hltv.org/player/20994/fl4mus",
+        "country": "Russia",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Goofy": {
+        "link": "https://www.hltv.org/player/15428/goofy",
+        "country": "Poland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "RpK": {
+        "link": "https://www.hltv.org/player/7169/rpk",
+        "country": "France",
+        "team": "Vitality",
+        "birth_year": 1990,
+        "role": "Rifler",
+        "majapp": 9
+    },
+    "twist": {
+        "link": "https://www.hltv.org/player/7443/twist",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Stewie2K": {
+        "link": "https://www.hltv.org/player/8797/stewie2k",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "Nodios": {
+        "link": "https://www.hltv.org/player/8891/nodios",
+        "country": "Denmark",
+        "team": "ECSTATIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fxy0": {
+        "link": "https://www.hltv.org/player/7708/fxy0",
+        "country": "France",
+        "team": "Epsilon",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zehN": {
+        "link": "https://www.hltv.org/player/1378/zehn",
+        "country": "Finland",
+        "team": "Sprout",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "nex": {
+        "link": "https://www.hltv.org/player/7256/nex",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": 1993,
+        "role": "Rifler",
+        "majapp": 10
+    },
+    "alex": {
+        "link": "https://www.hltv.org/player/8371/alex",
+        "country": "Spain",
+        "team": "Movistar Riders",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fox": {
+        "link": "https://www.hltv.org/player/629/fox",
+        "country": "Portugal",
+        "team": "G2",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "HS": {
+        "link": "https://www.hltv.org/player/8994/hs",
+        "country": "Estonia",
+        "team": "PENTA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Maden": {
+        "link": "https://www.hltv.org/player/11777/maden",
+        "country": "Montenegro",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "KQLY": {
+        "link": "https://www.hltv.org/player/7833/kqly",
+        "country": "France",
+        "team": "LDLC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "jR": {
+        "link": "https://www.hltv.org/player/8786/jr",
+        "country": "Ukraine",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "t0rick": {
+        "link": "https://www.hltv.org/player/9382/t0rick",
+        "country": "Azerbaijan",
+        "team": "Syman",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sjuush": {
+        "link": "https://www.hltv.org/player/14148/sjuush",
+        "country": "Denmark",
+        "team": "HEROIC",
+        "birth_year": 1999,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "ScreaM": {
+        "link": "https://www.hltv.org/player/7390/scream",
+        "country": "Belgium",
+        "team": "G2",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Troubley": {
+        "link": "https://www.hltv.org/player/128/troubley",
+        "country": "Germany",
+        "team": "PENTA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zont1x": {
+        "link": "https://www.hltv.org/player/20423/zont1x",
+        "country": "Ukraine",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "phzy": {
+        "link": "https://www.hltv.org/player/16726/phzy",
+        "country": "Sweden",
+        "team": "Wildcard",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kinqie": {
+        "link": "https://www.hltv.org/player/3459/kinqie",
+        "country": "Russia",
+        "team": "DreamEaters",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "misutaaa": {
+        "link": "https://www.hltv.org/player/14176/misutaaa",
+        "country": "France",
+        "team": "Vitality",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "stanislaw": {
         "link": "https://www.hltv.org/player/8507/stanislaw",
@@ -1047,27 +2095,235 @@
         "role": "Rifler",
         "majapp": 7
     },
-    "SmithZz": {
-        "link": "https://www.hltv.org/player/7170/smithzz",
-        "country": "France",
-        "team": "G2",
-        "birth_year": 1989,
-        "role": "Rifler",
-        "majapp": 11
-    },
-    "TACO": {
-        "link": "https://www.hltv.org/player/9217/taco",
-        "country": "Brazil",
-        "team": "SK",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 10
-    },
     "kyxsan": {
         "link": "https://www.hltv.org/player/19677/kyxsan",
         "country": "North Macedonia",
         "team": "HEROIC",
         "birth_year": 2001,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "Forester": {
+        "link": "https://www.hltv.org/player/13982/forester",
+        "country": "Russia",
+        "team": "Entropiq",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "max": {
+        "link": "https://www.hltv.org/player/12092/max",
+        "country": "Uruguay",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "TeSeS": {
+        "link": "https://www.hltv.org/player/12018/teses",
+        "country": "Denmark",
+        "team": "HEROIC",
+        "birth_year": 2001,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "Kylar": {
+        "link": "https://www.hltv.org/player/19114/kylar",
+        "country": "Poland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "valde": {
+        "link": "https://www.hltv.org/player/9031/valde",
+        "country": "Denmark",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SicK": {
+        "link": "https://www.hltv.org/player/9258/sick",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ChildKing": {
+        "link": "https://www.hltv.org/player/19681/childking",
+        "country": "China",
+        "team": "Rare Atom",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "yay": {
+        "link": "https://www.hltv.org/player/8513/yay",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "bondik": {
+        "link": "https://www.hltv.org/player/2131/bondik",
+        "country": "Ukraine",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Aerial": {
+        "link": "https://www.hltv.org/player/4076/aerial",
+        "country": "Finland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ALEX": {
+        "link": "https://www.hltv.org/player/8184/alex",
+        "country": "United Kingdom",
+        "team": "Vitality",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MICHU": {
+        "link": "https://www.hltv.org/player/7356/michu",
+        "country": "Poland",
+        "team": "Evil Geniuses",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Norwi": {
+        "link": "https://www.hltv.org/player/19882/norwi",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "rallen": {
+        "link": "https://www.hltv.org/player/5388/rallen",
+        "country": "Poland",
+        "team": "Into the Breach",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Zeus": {
+        "link": "https://www.hltv.org/player/484/zeus",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 1988,
+        "role": "Rifler",
+        "majapp": 15
+    },
+    "WorldEdit": {
+        "link": "https://www.hltv.org/player/7403/worldedit",
+        "country": "Russia",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DD": {
+        "link": "https://www.hltv.org/player/7026/dd",
+        "country": "China",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "erkaSt": {
+        "link": "https://www.hltv.org/player/11141/erkast",
+        "country": "Mongolia",
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "draken": {
+        "link": "https://www.hltv.org/player/9255/draken",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "chelo": {
+        "link": "https://www.hltv.org/player/10566/chelo",
+        "country": "Brazil",
+        "team": "FURIA",
+        "birth_year": 1999,
+        "role": "Rifler",
+        "majapp": 5
+    },
+    "EmiliaQAQ": {
+        "link": "https://www.hltv.org/player/22922/emiliaqaq",
+        "country": "China",
+        "team": "Lynn Vision",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "nitr0": {
+        "link": "https://www.hltv.org/player/7687/nitr0",
+        "country": "United States",
+        "team": "Liquid",
+        "birth_year": 1996,
+        "role": "Rifler",
+        "majapp": 12
+    },
+    "s1n": {
+        "link": "https://www.hltv.org/player/20104/s1n",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JUGi": {
+        "link": "https://www.hltv.org/player/8783/jugi",
+        "country": "Denmark",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Rickeh": {
+        "link": "https://www.hltv.org/player/8745/rickeh",
+        "country": "Australia",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LEGIJA": {
+        "link": "https://www.hltv.org/player/3252/legija",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JACKZ": {
+        "link": "https://www.hltv.org/player/284/jackz",
+        "country": "France",
+        "team": "G2",
+        "birth_year": 1993,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "latto": {
+        "link": "https://www.hltv.org/player/19045/latto",
+        "country": "Brazil",
+        "team": "Legacy",
+        "birth_year": 2003,
         "role": "Rifler",
         "majapp": 3
     },
@@ -1079,6 +2335,174 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "sk0R": {
+        "link": "https://www.hltv.org/player/18638/sk0r",
+        "country": "Mongolia",
+        "team": "IHC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "disturbed": {
+        "link": "https://www.hltv.org/player/7235/disturbed",
+        "country": "Finland",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kUcheR": {
+        "link": "https://www.hltv.org/player/302/kucher",
+        "country": "Russia",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MAJ3R": {
+        "link": "https://www.hltv.org/player/150/maj3r",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "doto": {
+        "link": "https://www.hltv.org/player/9819/doto",
+        "country": "Finland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "FeTiSh": {
+        "link": "https://www.hltv.org/player/7582/fetish",
+        "country": "Denmark",
+        "team": "Dignitas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SANJI": {
+        "link": "https://www.hltv.org/player/11716/sanji",
+        "country": "Uzbekistan",
+        "team": "AVANGAR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DeathZz": {
+        "link": "https://www.hltv.org/player/13093/deathzz",
+        "country": "Spain",
+        "team": "Movistar Riders",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "arrozdoce": {
+        "link": "https://www.hltv.org/player/20465/arrozdoce",
+        "country": "Portugal",
+        "team": "SAW",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SmithZz": {
+        "link": "https://www.hltv.org/player/7170/smithzz",
+        "country": "France",
+        "team": "G2",
+        "birth_year": 1989,
+        "role": "Rifler",
+        "majapp": 11
+    },
+    "kRaSnaL": {
+        "link": "https://www.hltv.org/player/20282/krasnal",
+        "country": "Poland",
+        "team": "Monte",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hades": {
+        "link": "https://www.hltv.org/player/16848/hades",
+        "country": "Poland",
+        "team": "ENCE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "desi": {
+        "link": "https://www.hltv.org/player/8350/desi",
+        "country": "United States",
+        "team": "iBUYPOWER",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "PKL": {
+        "link": "https://www.hltv.org/player/6593/pkl",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "story": {
+        "link": "https://www.hltv.org/player/20462/story",
+        "country": "Portugal",
+        "team": "SAW",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Liazz": {
+        "link": "https://www.hltv.org/player/10588/liazz",
+        "country": "Australia",
+        "team": "FlyQuest",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "almazer": {
+        "link": "https://www.hltv.org/player/11654/almazer",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "history": {
+        "link": "https://www.hltv.org/player/20939/history",
+        "country": "Brazil",
+        "team": "Fluxo",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "siuhy": {
+        "link": "https://www.hltv.org/player/16820/siuhy",
+        "country": "Poland",
+        "team": "GamerLegion",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "TACO": {
+        "link": "https://www.hltv.org/player/9217/taco",
+        "country": "Brazil",
+        "team": "SK",
+        "birth_year": 1995,
+        "role": "Rifler",
+        "majapp": 10
+    },
+    "STYKO": {
+        "link": "https://www.hltv.org/player/6904/styko",
+        "country": "Slovakia",
+        "team": "Apeks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "VINI": {
         "link": "https://www.hltv.org/player/12822/vini",
         "country": "Brazil",
@@ -1087,53 +2511,101 @@
         "role": "Rifler",
         "majapp": 7
     },
-    "n0thing": {
-        "link": "https://www.hltv.org/player/203/n0thing",
-        "country": "United States",
-        "team": "Cloud9",
-        "birth_year": 1991,
-        "role": "Rifler",
-        "majapp": 10
-    },
-    "dexter": {
-        "link": "https://www.hltv.org/player/9115/dexter",
-        "country": "Australia",
-        "team": "MOUZ",
-        "birth_year": 1995,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "Liazz": {
-        "link": "https://www.hltv.org/player/10588/liazz",
-        "country": "Australia",
-        "team": "Renegades",
-        "birth_year": 1998,
-        "role": "Rifler",
-        "majapp": 6
-    },
-    "felps": {
-        "link": "https://www.hltv.org/player/9219/felps",
-        "country": "Brazil",
-        "team": "Imperial",
-        "birth_year": 1997,
-        "role": "Rifler",
-        "majapp": 7
+    "mopoz": {
+        "link": "https://www.hltv.org/player/9254/mopoz",
+        "country": "Spain",
+        "team": "Movistar Riders",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "lux": {
         "link": "https://www.hltv.org/player/20563/lux",
         "country": "Brazil",
-        "team": "Legacy",
+        "team": "paiN",
         "birth_year": 2003,
         "role": "Rifler",
         "majapp": 2
     },
-    "INS": {
-        "link": "https://www.hltv.org/player/11140/ins",
+    "Staehr": {
+        "link": "https://www.hltv.org/player/20304/staehr",
+        "country": "Denmark",
+        "team": "Sprout",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "steel": {
+        "link": "https://www.hltv.org/player/7253/steel",
+        "country": "Canada",
+        "team": "iBUYPOWER",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Dimaoneshot": {
+        "link": "https://www.hltv.org/player/8125/dimaoneshot",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "aliStair": {
+        "link": "https://www.hltv.org/player/11139/alistair",
         "country": "Australia",
-        "team": "FlyQuest",
-        "birth_year": 1999,
-        "role": "Rifler",
-        "majapp": 5
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "NickelBack": {
+        "link": "https://www.hltv.org/player/11498/nickelback",
+        "country": "Russia",
+        "team": "Entropiq",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "HeavyGod": {
+        "link": "https://www.hltv.org/player/20447/heavygod",
+        "country": "Israel",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Krad": {
+        "link": "https://www.hltv.org/player/12027/krad",
+        "country": "Russia",
+        "team": "Entropiq",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sinnopsyy": {
+        "link": "https://www.hltv.org/player/18120/sinnopsyy",
+        "country": "Kosovo",
+        "team": "Bad News Eagles",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "L1haNg": {
+        "link": "https://www.hltv.org/player/21825/l1hang",
+        "country": "China",
+        "team": "Rare Atom",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "vsm": {
+        "link": "https://www.hltv.org/player/16816/vsm",
+        "country": "Brazil",
+        "team": "Fluxo",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "Aleksib": {
         "link": "https://www.hltv.org/player/9816/aleksib",
@@ -1143,6 +2615,350 @@
         "role": "Rifler",
         "majapp": 7
     },
+    "salazar": {
+        "link": "https://www.hltv.org/player/21379/salazar",
+        "country": "Denmark",
+        "team": "ECSTATIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "BENDJI": {
+        "link": "https://www.hltv.org/player/8396/bendji",
+        "country": "Sweden",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zende": {
+        "link": "https://www.hltv.org/player/5045/zende",
+        "country": "Sweden",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "bodyy": {
+        "link": "https://www.hltv.org/player/8374/bodyy",
+        "country": "France",
+        "team": "G2",
+        "birth_year": 1997,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "wayLander": {
+        "link": "https://www.hltv.org/player/7796/waylander",
+        "country": "Russia",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "s-chilla": {
+        "link": "https://www.hltv.org/player/23413/s-chilla",
+        "country": "Ukraine",
+        "team": "Passion UA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "innocent": {
+        "link": "https://www.hltv.org/player/3669/innocent",
+        "country": "Poland",
+        "team": "Sprout",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "mixwell": {
+        "link": "https://www.hltv.org/player/8370/mixwell",
+        "country": "Spain",
+        "team": "OpTic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dumau": {
+        "link": "https://www.hltv.org/player/15698/dumau",
+        "country": "Brazil",
+        "team": "Legacy",
+        "birth_year": 2004,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "n0thing": {
+        "link": "https://www.hltv.org/player/203/n0thing",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": 1991,
+        "role": "Rifler",
+        "majapp": 10
+    },
+    "Jee": {
+        "link": "https://www.hltv.org/player/20702/jee",
+        "country": "China",
+        "team": "Lynn Vision",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dexter": {
+        "link": "https://www.hltv.org/player/9115/dexter",
+        "country": "Australia",
+        "team": "MOUZ",
+        "birth_year": 1995,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "FASHR": {
+        "link": "https://www.hltv.org/player/11954/fashr",
+        "country": "Netherlands",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kRYSTAL": {
+        "link": "https://www.hltv.org/player/7218/krystal",
+        "country": "Germany",
+        "team": "PENTA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "adamS": {
+        "link": "https://www.hltv.org/player/19698/adams",
+        "country": "Romania",
+        "team": "KOI",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Graviti": {
+        "link": "https://www.hltv.org/player/21969/graviti",
+        "country": "France",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sterling": {
+        "link": "https://www.hltv.org/player/12591/sterling",
+        "country": "New Zealand",
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zhokiNg": {
+        "link": "https://www.hltv.org/player/8601/zhoking",
+        "country": "China",
+        "team": "ViCi",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hazed": {
+        "link": "https://www.hltv.org/player/8347/hazed",
+        "country": "United States",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "USTILO": {
+        "link": "https://www.hltv.org/player/8771/ustilo",
+        "country": "Australia",
+        "team": "Renegades",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Nifty": {
+        "link": "https://www.hltv.org/player/9069/nifty",
+        "country": "United States",
+        "team": "Renegades",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "kabal": {
+        "link": "https://www.hltv.org/player/10870/kabal",
+        "country": "Mongolia",
+        "team": "IHC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JDC": {
+        "link": "https://www.hltv.org/player/14929/jdc",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": 2001,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "denis": {
+        "link": "https://www.hltv.org/player/7511/denis",
+        "country": "Germany",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "oBo": {
+        "link": "https://www.hltv.org/player/14614/obo",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zEVES": {
+        "link": "https://www.hltv.org/player/3018/zeves",
+        "country": "Norway",
+        "team": "LGB",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "shroud": {
+        "link": "https://www.hltv.org/player/8349/shroud",
+        "country": "Canada",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "noway": {
+        "link": "https://www.hltv.org/player/22564/noway",
+        "country": "Brazil",
+        "team": "Imperial",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Delpan": {
+        "link": "https://www.hltv.org/player/438/delpan",
+        "country": "Sweden",
+        "team": "SK",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "felps": {
+        "link": "https://www.hltv.org/player/9219/felps",
+        "country": "Brazil",
+        "team": "Imperial",
+        "birth_year": 1997,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "GMX": {
+        "link": "https://www.hltv.org/player/7565/gmx",
+        "country": "France",
+        "team": "Recursive",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "z4kr": {
+        "link": "https://www.hltv.org/player/18744/z4kr",
+        "country": "China",
+        "team": "Lynn Vision",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Spiidi": {
+        "link": "https://www.hltv.org/player/7499/spiidi",
+        "country": "Germany",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "GruBy": {
+        "link": "https://www.hltv.org/player/8570/gruby",
+        "country": "Poland",
+        "team": "eBettle",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "waterfaLLZ": {
+        "link": "https://www.hltv.org/player/8727/waterfallz",
+        "country": "Russia",
+        "team": "Quantum Bellator Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "keev": {
+        "link": "https://www.hltv.org/player/5799/keev",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "spaze": {
+        "link": "https://www.hltv.org/player/8345/spaze",
+        "country": "Russia",
+        "team": "Gambit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "malta": {
+        "link": "https://www.hltv.org/player/11485/malta",
+        "country": "Australia",
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "stadodo": {
+        "link": "https://www.hltv.org/player/11205/stadodo",
+        "country": "Portugal",
+        "team": "KOI",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Sf": {
+        "link": "https://www.hltv.org/player/7591/sf",
+        "country": "France",
+        "team": "Epsilon",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Lack1": {
+        "link": "https://www.hltv.org/player/13240/lack1",
+        "country": "Kazakhstan",
+        "team": "Entropiq",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Grim": {
+        "link": "https://www.hltv.org/player/13578/grim",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": 2001,
+        "role": "Rifler",
+        "majapp": 5
+    },
+    "SZPERO": {
+        "link": "https://www.hltv.org/player/973/szpero",
+        "country": "Poland",
+        "team": "ESC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "Keoz": {
         "link": "https://www.hltv.org/player/15117/keoz",
         "country": "Belgium",
@@ -1151,21 +2967,21 @@
         "role": "Rifler",
         "majapp": 4
     },
-    "drop": {
-        "link": "https://www.hltv.org/player/19750/drop",
-        "country": "Brazil",
-        "team": "FURIA",
-        "birth_year": 2004,
-        "role": "Rifler",
-        "majapp": 5
+    "loWel": {
+        "link": "https://www.hltv.org/player/3997/lowel",
+        "country": "Spain",
+        "team": "MOUZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "JT": {
-        "link": "https://www.hltv.org/player/11630/jt",
-        "country": "South Africa",
-        "team": "Passion UA",
-        "birth_year": 2000,
-        "role": "Rifler",
-        "majapp": 4
+    "FNS": {
+        "link": "https://www.hltv.org/player/6451/fns",
+        "country": "Canada",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "karrigan": {
         "link": "https://www.hltv.org/player/429/karrigan",
@@ -1175,21 +2991,165 @@
         "role": "Rifler",
         "majapp": 19
     },
-    "siuhy": {
-        "link": "https://www.hltv.org/player/16820/siuhy",
-        "country": "Poland",
-        "team": "Liquid",
-        "birth_year": 2003,
-        "role": "Rifler",
-        "majapp": 4
+    "DavCost": {
+        "link": "https://www.hltv.org/player/8124/davcost",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
-    "pronax": {
-        "link": "https://www.hltv.org/player/41/pronax",
+    "somebody": {
+        "link": "https://www.hltv.org/player/8605/somebody",
+        "country": "China",
+        "team": "Rare Atom",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "jmqa": {
+        "link": "https://www.hltv.org/player/8368/jmqa",
+        "country": "Russia",
+        "team": "Quantum Bellator Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Sonic": {
+        "link": "https://www.hltv.org/player/8711/sonic",
+        "country": "South Africa",
+        "team": "Wildcard",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "refrezh": {
+        "link": "https://www.hltv.org/player/10610/refrezh",
+        "country": "Denmark",
+        "team": "HEROIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dephh": {
+        "link": "https://www.hltv.org/player/7873/dephh",
+        "country": "United Kingdom",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Patti": {
+        "link": "https://www.hltv.org/player/13077/patti",
+        "country": "Denmark",
+        "team": "ECSTATIC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DickStacy": {
+        "link": "https://www.hltv.org/player/12876/dickstacy",
+        "country": "Australia",
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "NEKIZ": {
+        "link": "https://www.hltv.org/player/9482/nekiz",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zevy": {
+        "link": "https://www.hltv.org/player/19692/zevy",
+        "country": "Brazil",
+        "team": "paiN",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "speed4k": {
+        "link": "https://www.hltv.org/player/13155/speed4k",
+        "country": "Russia",
+        "team": "DreamEaters",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Pimp": {
+        "link": "https://www.hltv.org/player/7154/pimp",
+        "country": "Denmark",
+        "team": "CPH Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Fifflaren": {
+        "link": "https://www.hltv.org/player/7147/fifflaren",
         "country": "Sweden",
-        "team": "fnatic",
-        "birth_year": 1992,
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "interz": {
+        "link": "https://www.hltv.org/player/15071/interz",
+        "country": "Russia",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "INS": {
+        "link": "https://www.hltv.org/player/11140/ins",
+        "country": "Australia",
+        "team": "FlyQuest",
+        "birth_year": 1999,
         "role": "Rifler",
-        "majapp": 8
+        "majapp": 5
+    },
+    "Annihilation": {
+        "link": "https://www.hltv.org/player/18689/annihilation",
+        "country": "Mongolia",
+        "team": "IHC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "AcilioN": {
+        "link": "https://www.hltv.org/player/8151/acilion",
+        "country": "Denmark",
+        "team": "myXMG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Tauson": {
+        "link": "https://www.hltv.org/player/20301/tauson",
+        "country": "Denmark",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DaZeD": {
+        "link": "https://www.hltv.org/player/7347/dazed",
+        "country": "United States",
+        "team": "iBUYPOWER",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "mouz": {
+        "link": "https://www.hltv.org/player/8323/mouz",
+        "country": "Poland",
+        "team": "ESC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "arT": {
         "link": "https://www.hltv.org/player/12521/art",
@@ -1199,13 +3159,333 @@
         "role": "Rifler",
         "majapp": 7
     },
+    "drop": {
+        "link": "https://www.hltv.org/player/19750/drop",
+        "country": "Brazil",
+        "team": "FURIA",
+        "birth_year": 2004,
+        "role": "Rifler",
+        "majapp": 5
+    },
+    "dimasick": {
+        "link": "https://www.hltv.org/player/13780/dimasick",
+        "country": "Kazakhstan",
+        "team": "AVANGAR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SLOWLY": {
+        "link": "https://www.hltv.org/player/15683/slowly",
+        "country": "China",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "FaNg": {
+        "link": "https://www.hltv.org/player/17372/fang",
+        "country": "Canada",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LOVEYY": {
+        "link": "https://www.hltv.org/player/8957/loveyy",
+        "country": "China",
+        "team": "Flash",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "svyat": {
+        "link": "https://www.hltv.org/player/12016/svyat",
+        "country": "Russia",
+        "team": "DreamEaters",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "pronax": {
+        "link": "https://www.hltv.org/player/41/pronax",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": 1992,
+        "role": "Rifler",
+        "majapp": 8
+    },
+    "starix": {
+        "link": "https://www.hltv.org/player/303/starix",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "cype": {
+        "link": "https://www.hltv.org/player/7445/cype",
+        "country": "Sweden",
+        "team": "LGB",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "peet": {
+        "link": "https://www.hltv.org/player/7369/peet",
+        "country": "Poland",
+        "team": "eBettle",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Summer": {
+        "link": "https://www.hltv.org/player/7028/summer",
+        "country": "China",
+        "team": "Rare Atom",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "gob b": {
+        "link": "https://www.hltv.org/player/136/gob-b",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Westmelon": {
+        "link": "https://www.hltv.org/player/16551/westmelon",
+        "country": "China",
+        "team": "Lynn Vision",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ableJ": {
+        "link": "https://www.hltv.org/player/16770/ablej",
+        "country": "Brazil",
+        "team": "FURIA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "smF": {
+        "link": "https://www.hltv.org/player/7414/smf",
+        "country": "Denmark",
+        "team": "Reason",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "r3salt": {
+        "link": "https://www.hltv.org/player/20709/r3salt",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Devilwalk": {
+        "link": "https://www.hltv.org/player/7378/devilwalk",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "F1KU": {
+        "link": "https://www.hltv.org/player/19044/f1ku",
+        "country": "Poland",
+        "team": "OG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "Snappi": {
         "link": "https://www.hltv.org/player/922/snappi",
         "country": "Denmark",
-        "team": "Ninjas in Pyjamas",
+        "team": "ENCE",
         "birth_year": 1991,
         "role": "Rifler",
         "majapp": 5
+    },
+    "nukkye": {
+        "link": "https://www.hltv.org/player/13679/nukkye",
+        "country": "Lithuania",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "roman": {
+        "link": "https://www.hltv.org/player/2241/roman",
+        "country": "Portugal",
+        "team": "SAW",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "freakazoid": {
+        "link": "https://www.hltv.org/player/7808/freakazoid",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fitch": {
+        "link": "https://www.hltv.org/player/10052/fitch",
+        "country": "Kazakhstan",
+        "team": "AVANGAR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Zellsis": {
+        "link": "https://www.hltv.org/player/13188/zellsis",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "TRAVIS": {
+        "link": "https://www.hltv.org/player/16948/travis",
+        "country": "Russia",
+        "team": "AMKAL",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "sense": {
+        "link": "https://www.hltv.org/player/17450/sense",
+        "country": "Norway",
+        "team": "Apeks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "try": {
+        "link": "https://www.hltv.org/player/19869/try",
+        "country": "Argentina",
+        "team": "Imperial",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Zero": {
+        "link": "https://www.hltv.org/player/8413/zero",
+        "country": "Slovakia",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "tonyblack": {
+        "link": "https://www.hltv.org/player/1950/tonyblack",
+        "country": "Russia",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "floppy": {
+        "link": "https://www.hltv.org/player/12713/floppy",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hooch": {
+        "link": "https://www.hltv.org/player/499/hooch",
+        "country": "Russia",
+        "team": "Gambit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Golden": {
+        "link": "https://www.hltv.org/player/11110/golden",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "tiziaN": {
+        "link": "https://www.hltv.org/player/5796/tizian",
+        "country": "Germany",
+        "team": "BIG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "FugLy": {
+        "link": "https://www.hltv.org/player/8522/fugly",
+        "country": "United States",
+        "team": "NRG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Havoc": {
+        "link": "https://www.hltv.org/player/8083/havoc",
+        "country": "Australia",
+        "team": "Vox Eminor",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Vexite": {
+        "link": "https://www.hltv.org/player/17384/vexite",
+        "country": "Australia",
+        "team": "FlyQuest",
+        "birth_year": 2005,
+        "role": "Rifler",
+        "majapp": 3
+    },
+    "Kyojin": {
+        "link": "https://www.hltv.org/player/19672/kyojin",
+        "country": "France",
+        "team": "Vitality",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "disco doplan": {
+        "link": "https://www.hltv.org/player/9256/disco-doplan",
+        "country": "Sweden",
+        "team": "fnatic",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Plopski": {
+        "link": "https://www.hltv.org/player/14218/plopski",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "seang@res": {
+        "link": "https://www.hltv.org/player/1916/seangres",
+        "country": "United States",
+        "team": "Cloud9",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "topguN": {
+        "link": "https://www.hltv.org/player/8086/topgun",
+        "country": "Australia",
+        "team": "Vox Eminor",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     },
     "ANGE1": {
         "link": "https://www.hltv.org/player/339/ange1",
@@ -1215,12 +3495,932 @@
         "role": "Rifler",
         "majapp": 9
     },
+    "reltuC": {
+        "link": "https://www.hltv.org/player/8137/reltuc",
+        "country": "United States",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "KHRN": {
+        "link": "https://www.hltv.org/player/971/khrn",
+        "country": "Finland",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Thomas": {
+        "link": "https://www.hltv.org/player/13018/thomas",
+        "country": "United Kingdom",
+        "team": "Into the Breach",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ceh9": {
+        "link": "https://www.hltv.org/player/301/ceh9",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "niko": {
+        "link": "https://www.hltv.org/player/10264/niko",
+        "country": "Denmark",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "KrizzeN": {
+        "link": "https://www.hltv.org/player/12161/krizzen",
+        "country": "Kazakhstan",
+        "team": "AVANGAR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Farlig": {
+        "link": "https://www.hltv.org/player/13300/farlig",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "balblna": {
+        "link": "https://www.hltv.org/player/8294/balblna",
+        "country": "Russia",
+        "team": "Quantum Bellator Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "CacaNito": {
+        "link": "https://www.hltv.org/player/18790/cacanito",
+        "country": "North Macedonia",
+        "team": "Apeks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ewjerkz": {
+        "link": "https://www.hltv.org/player/20464/ewjerkz",
+        "country": "Portugal",
+        "team": "SAW",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dav1deuS": {
+        "link": "https://www.hltv.org/player/18865/dav1deus",
+        "country": "Chile",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "anger": {
+        "link": "https://www.hltv.org/player/7438/anger",
+        "country": "United States",
+        "team": "iBUYPOWER",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Ex6TenZ": {
+        "link": "https://www.hltv.org/player/7166/ex6tenz",
+        "country": "Belgium",
+        "team": "Titan",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zeRRoFIX": {
+        "link": "https://www.hltv.org/player/23415/zerrofix",
+        "country": "Ukraine",
+        "team": "Passion UA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MUTiRiS": {
+        "link": "https://www.hltv.org/player/630/mutiris",
+        "country": "Portugal",
+        "team": "SAW",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
     "HooXi": {
         "link": "https://www.hltv.org/player/10096/hooxi",
         "country": "Denmark",
-        "team": "Astralis",
+        "team": "Copenhagen Flames",
         "birth_year": 1996,
         "role": "Rifler",
         "majapp": 4
+    },
+    "ngiN": {
+        "link": "https://www.hltv.org/player/9857/ngin",
+        "country": "Turkey",
+        "team": "Space Soldiers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "imoRR": {
+        "link": "https://www.hltv.org/player/15835/imorr",
+        "country": "Turkey",
+        "team": "Eternal Fire",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "fel1x": {
+        "link": "https://www.hltv.org/player/7323/fel1x",
+        "country": "Germany",
+        "team": "PENTA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SENER1": {
+        "link": "https://www.hltv.org/player/15778/sener1",
+        "country": "Kosovo",
+        "team": "Bad News Eagles",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "lauNX": {
+        "link": "https://www.hltv.org/player/20761/launx",
+        "country": "Romania",
+        "team": "Sprout",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ptr": {
+        "link": "https://www.hltv.org/player/8707/ptr",
+        "country": "United States",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Sico": {
+        "link": "https://www.hltv.org/player/9102/sico",
+        "country": "New Zealand",
+        "team": "Grayhound",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "pancc": {
+        "link": "https://www.hltv.org/player/16314/pancc",
+        "country": "Brazil",
+        "team": "Sharks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Jerry": {
+        "link": "https://www.hltv.org/player/13157/jerry",
+        "country": "Russia",
+        "team": "FORZE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hutji": {
+        "link": "https://www.hltv.org/player/8790/hutji",
+        "country": "Russia",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Friis": {
+        "link": "https://www.hltv.org/player/7/friis",
+        "country": "Denmark",
+        "team": "Reason",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Maka": {
+        "link": "https://www.hltv.org/player/13138/maka",
+        "country": "France",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Uzzziii": {
+        "link": "https://www.hltv.org/player/7391/uzzziii",
+        "country": "France",
+        "team": "LDLC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JT": {
+        "link": "https://www.hltv.org/player/11630/jt",
+        "country": "South Africa",
+        "team": "Complexity",
+        "birth_year": 2000,
+        "role": "Rifler",
+        "majapp": 4
+    },
+    "emagine": {
+        "link": "https://www.hltv.org/player/8744/emagine",
+        "country": "Australia",
+        "team": "Immunity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dav1g": {
+        "link": "https://www.hltv.org/player/19509/dav1g",
+        "country": "Spain",
+        "team": "Movistar Riders",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "AZK": {
+        "link": "https://www.hltv.org/player/7434/azk",
+        "country": "Canada",
+        "team": "iBUYPOWER",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "S0tF1k": {
+        "link": "https://www.hltv.org/player/9081/s0tf1k",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "realz1n": {
+        "link": "https://www.hltv.org/player/16769/realz1n",
+        "country": "Brazil",
+        "team": "Sharks",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Hatz": {
+        "link": "https://www.hltv.org/player/11162/hatz",
+        "country": "Australia",
+        "team": "Renegades",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DeadFox": {
+        "link": "https://www.hltv.org/player/8716/deadfox",
+        "country": "Hungary",
+        "team": "HellRaisers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Furlan": {
+        "link": "https://www.hltv.org/player/8327/furlan",
+        "country": "Poland",
+        "team": "eBettle",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hasteka": {
+        "link": "https://www.hltv.org/player/12956/hasteka",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "yel": {
+        "link": "https://www.hltv.org/player/10560/yel",
+        "country": "Brazil",
+        "team": "INTZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "TENZKI": {
+        "link": "https://www.hltv.org/player/5287/tenzki",
+        "country": "Denmark",
+        "team": "Dignitas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "centeks": {
+        "link": "https://www.hltv.org/player/7262/centeks",
+        "country": "Norway",
+        "team": "Xapso",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "pita": {
+        "link": "https://www.hltv.org/player/434/pita",
+        "country": "Bosnia and Herzegovina",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SIXER": {
+        "link": "https://www.hltv.org/player/147/sixer",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xms": {
+        "link": "https://www.hltv.org/player/9545/xms",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "daps": {
+        "link": "https://www.hltv.org/player/8521/daps",
+        "country": "Canada",
+        "team": "NRG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "strux1": {
+        "link": "https://www.hltv.org/player/7214/strux1",
+        "country": "Germany",
+        "team": "Planetkey",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LNZ": {
+        "link": "https://www.hltv.org/player/19310/lnz",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "koosta": {
+        "link": "https://www.hltv.org/player/9056/koosta",
+        "country": "United States",
+        "team": "CLG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ztr": {
+        "link": "https://www.hltv.org/player/16486/ztr",
+        "country": "Sweden",
+        "team": "GamerLegion",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "keshandr": {
+        "link": "https://www.hltv.org/player/8788/keshandr",
+        "country": "Russia",
+        "team": "Vega Squadron",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "advent": {
+        "link": "https://www.hltv.org/player/8600/advent",
+        "country": "China",
+        "team": "ViCi",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "B1ad3": {
+        "link": "https://www.hltv.org/player/472/b1ad3",
+        "country": "Ukraine",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LETN1": {
+        "link": "https://www.hltv.org/player/4216/letn1",
+        "country": "Serbia",
+        "team": "CR4ZY",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MSL": {
+        "link": "https://www.hltv.org/player/7156/msl",
+        "country": "Denmark",
+        "team": "North",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xartE": {
+        "link": "https://www.hltv.org/player/7537/xarte",
+        "country": "Finland",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "captainMo": {
+        "link": "https://www.hltv.org/player/5187/captainmo",
+        "country": "China",
+        "team": "TYLOO",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "LOMME": {
+        "link": "https://www.hltv.org/player/1889/lomme",
+        "country": "Denmark",
+        "team": "Reason",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "THREAT": {
+        "link": "https://www.hltv.org/player/37/threat",
+        "country": "Sweden",
+        "team": "Ninjas in Pyjamas",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MINISE": {
+        "link": "https://www.hltv.org/player/2826/minise",
+        "country": "Poland",
+        "team": "ESC",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "buda": {
+        "link": "https://www.hltv.org/player/20607/buda",
+        "country": "Argentina",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Ace": {
+        "link": "https://www.hltv.org/player/7816/ace",
+        "country": "India",
+        "team": "Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "yam": {
+        "link": "https://www.hltv.org/player/2555/yam",
+        "country": "Australia",
+        "team": "Renegades",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "DEVIL": {
+        "link": "https://www.hltv.org/player/8569/devil",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Luken": {
+        "link": "https://www.hltv.org/player/15914/luken",
+        "country": "Argentina",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "JUST": {
+        "link": "https://www.hltv.org/player/8998/just",
+        "country": "Portugal",
+        "team": "KOI",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "SnypeR": {
+        "link": "https://www.hltv.org/player/8084/snyper",
+        "country": "Australia",
+        "team": "Immunity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "HexT": {
+        "link": "https://www.hltv.org/player/18838/hext",
+        "country": "Canada",
+        "team": "Evil Geniuses",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "npl": {
+        "link": "https://www.hltv.org/player/21708/npl",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 2006,
+        "role": "Rifler",
+        "majapp": 1
+    },
+    "SPUNJ": {
+        "link": "https://www.hltv.org/player/8085/spunj",
+        "country": "Australia",
+        "team": "Vox Eminor",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "RiTz": {
+        "link": "https://www.hltv.org/player/2570/ritz",
+        "country": "India",
+        "team": "Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "junior": {
+        "link": "https://www.hltv.org/player/14494/junior",
+        "country": "United States",
+        "team": "Complexity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "WOOD7": {
+        "link": "https://www.hltv.org/player/14390/wood7",
+        "country": "Brazil",
+        "team": "MIBR",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xand": {
+        "link": "https://www.hltv.org/player/9218/xand",
+        "country": "Brazil",
+        "team": "INTZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "slaxz-": {
+        "link": "https://www.hltv.org/player/15370/slaxz",
+        "country": "Germany",
+        "team": "Sprout",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zqkS": {
+        "link": "https://www.hltv.org/player/7383/zqks",
+        "country": "Brazil",
+        "team": "Keyd",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "rox": {
+        "link": "https://www.hltv.org/player/16067/rox",
+        "country": "Argentina",
+        "team": "9z",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "HaRts": {
+        "link": "https://www.hltv.org/player/156/harts",
+        "country": "France",
+        "team": "Clan-Mystik",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "mynio": {
+        "link": "https://www.hltv.org/player/4829/mynio",
+        "country": "Poland",
+        "team": "9INE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Bart4k": {
+        "link": "https://www.hltv.org/player/19957/bart4k",
+        "country": "Mongolia",
+        "team": "The MongolZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Polly": {
+        "link": "https://www.hltv.org/player/3631/polly",
+        "country": "Norway",
+        "team": "LGB",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Karsa": {
+        "link": "https://www.hltv.org/player/8599/karsa",
+        "country": "China",
+        "team": "Flash",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "blackpoisoN": {
+        "link": "https://www.hltv.org/player/7992/blackpoison",
+        "country": "South Africa",
+        "team": "Bravado",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zews": {
+        "link": "https://www.hltv.org/player/6608/zews",
+        "country": "Brazil",
+        "team": "Liquid",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "HUNDEN": {
+        "link": "https://www.hltv.org/player/7415/hunden",
+        "country": "Denmark",
+        "team": "myXMG",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ultra": {
+        "link": "https://www.hltv.org/player/3919/ultra",
+        "country": "Norway",
+        "team": "Xapso",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "arya": {
+        "link": "https://www.hltv.org/player/6453/arya",
+        "country": "United States",
+        "team": "Splyce",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "KEi": {
+        "link": "https://www.hltv.org/player/17504/kei",
+        "country": "Poland",
+        "team": "9INE",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "stonde": {
+        "link": "https://www.hltv.org/player/7238/stonde",
+        "country": "Finland",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "dumz": {
+        "link": "https://www.hltv.org/player/7958/dumz",
+        "country": "Sweden",
+        "team": "FlipSid3",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "zonic": {
+        "link": "https://www.hltv.org/player/21/zonic",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "James": {
+        "link": "https://www.hltv.org/player/8746/james",
+        "country": "Australia",
+        "team": "Immunity",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "stavros": {
+        "link": "https://www.hltv.org/player/7246/stavros",
+        "country": "Germany",
+        "team": "Planetkey",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "alexRr": {
+        "link": "https://www.hltv.org/player/7508/alexrr",
+        "country": "Germany",
+        "team": "Planetkey",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ioRek": {
+        "link": "https://www.hltv.org/player/157/iorek",
+        "country": "France",
+        "team": "Clan-Mystik",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "destiny": {
+        "link": "https://www.hltv.org/player/9483/destiny",
+        "country": "Brazil",
+        "team": "INTZ",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "r0bs3n": {
+        "link": "https://www.hltv.org/player/7232/r0bs3n",
+        "country": "Germany",
+        "team": "PENTA",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "astaRR": {
+        "link": "https://www.hltv.org/player/7815/astarr",
+        "country": "India",
+        "team": "Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "RiX": {
+        "link": "https://www.hltv.org/player/2054/rix",
+        "country": "India",
+        "team": "Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "natu": {
+        "link": "https://www.hltv.org/player/713/natu",
+        "country": "Finland",
+        "team": "3DMAX",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Professor_Chaos": {
+        "link": "https://www.hltv.org/player/8912/professor-chaos",
+        "country": "United States",
+        "team": "Splyce",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "xelos": {
+        "link": "https://www.hltv.org/player/5373/xelos",
+        "country": "Sweden",
+        "team": "SK",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "ub1que": {
+        "link": "https://www.hltv.org/player/7405/ub1que",
+        "country": "Russia",
+        "team": "dAT",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MODDII": {
+        "link": "https://www.hltv.org/player/545/moddii",
+        "country": "Sweden",
+        "team": "SK",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "MithilF": {
+        "link": "https://www.hltv.org/player/7817/mithilf",
+        "country": "India",
+        "team": "Wolves",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "racno": {
+        "link": "https://www.hltv.org/player/7995/racno",
+        "country": "South Africa",
+        "team": "Bravado",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "jasonR": {
+        "link": "https://www.hltv.org/player/8794/jasonr",
+        "country": "Canada",
+        "team": "Splyce",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "hardstyle": {
+        "link": "https://www.hltv.org/player/3021/hardstyle",
+        "country": "Turkey",
+        "team": "Space Soldiers",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "robiin": {
+        "link": "https://www.hltv.org/player/7700/robiin",
+        "country": "Sweden",
+        "team": "Xapso",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Detrony": {
+        "link": "https://www.hltv.org/player/7993/detrony",
+        "country": "South Africa",
+        "team": "Bravado",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "abE": {
+        "link": "https://www.hltv.org/player/8502/abe",
+        "country": "United States",
+        "team": "Splyce",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "cent": {
+        "link": "https://www.hltv.org/player/7991/cent",
+        "country": "South Africa",
+        "team": "Bravado",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "Skurk": {
+        "link": "https://www.hltv.org/player/5042/skurk",
+        "country": "Norway",
+        "team": "London Conspiracy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "maLeK": {
+        "link": "https://www.hltv.org/player/15186/malek",
+        "country": "France",
+        "team": "Envy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "prb": {
+        "link": "https://www.hltv.org/player/1040/prb",
+        "country": "Norway",
+        "team": "London Conspiracy",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
+    },
+    "deviaNt": {
+        "link": "https://www.hltv.org/player/7994/deviant",
+        "country": "South Africa",
+        "team": "Bravado",
+        "birth_year": "Unknown",
+        "role": "Unknown",
+        "majapp": 0
     }
 }
